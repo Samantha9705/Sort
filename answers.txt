@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: with a lot of data take more time to get a result
+
+sort2 uses: merge sort
+
+How do you know?: sort all txt in less time
+
+sort3 uses: selection sort
+
+How do you know?: is competitive with less data but if data incresea take more time to get a reult 
